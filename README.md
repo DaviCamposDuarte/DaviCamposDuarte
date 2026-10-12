@@ -1,16 +1,25 @@
-## Hi there 👋
+# Davi Campos Duarte
 
-<!--
-**DaviCamposDuarte/DaviCamposDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor interessado em Front-end, Back-end e desenvolvimento mobile, sempre buscando aprender novas tecnologias e transformar ideias em aplicações funcionais.
 
-Here are some ideas to get you started:
+### Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web:** HTML, CSS, JavaScript e Streamlit
+
+**Linguagens:** C#, Python, Dart e Swift
+
+**Mobile:** Flutter, Android e iOS
+
+**Banco de dados:** MySQL
+
+**Versionamento:** Git e GitHub
+
+### Objetivos
+
+* Aprimorar minhas habilidades em desenvolvimento de software.
+* Desenvolver aplicações web e mobile.
+* Explorar novas tecnologias e criar projetos próprios.
+
+---
+
+*Em constante aprendizado e evolução.*
