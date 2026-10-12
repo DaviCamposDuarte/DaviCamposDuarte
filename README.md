@@ -1,25 +1,37 @@
 # Davi Campos Duarte
 
-Desenvolvedor interessado em Front-end, Back-end e desenvolvimento mobile, sempre buscando aprender novas tecnologias e transformar ideias em aplicações funcionais.
+**Desenvolvedor de Software em formação**
 
-### Tecnologias e ferramentas
+Interessado em desenvolvimento Front-end, Back-end e Mobile, busco aprimorar minhas habilidades e transformar ideias em soluções funcionais por meio da tecnologia.
 
-**Web:** HTML, CSS, JavaScript e Streamlit
+## Tecnologias
 
-**Linguagens:** C#, Python, Dart e Swift
+**Desenvolvimento Web**
 
-**Mobile:** Flutter, Android e iOS
+HTML · CSS · JavaScript · Streamlit
 
-**Banco de dados:** MySQL
+**Linguagens de Programação**
 
-**Versionamento:** Git e GitHub
+C# · Python · Dart · Swift
 
-### Objetivos
+**Desenvolvimento Mobile**
 
-* Aprimorar minhas habilidades em desenvolvimento de software.
-* Desenvolver aplicações web e mobile.
-* Explorar novas tecnologias e criar projetos próprios.
+Flutter · Android · iOS
+
+**Banco de Dados**
+
+MySQL
+
+**Ferramentas**
+
+Git · GitHub
+
+## Atualmente
+
+* Aprimorando meus conhecimentos em desenvolvimento de software.
+* Explorando tecnologias para aplicações web e mobile.
+* Desenvolvendo novas ideias e buscando evoluir por meio da prática.
 
 ---
 
-*Em constante aprendizado e evolução.*
+*Aprender, construir e evoluir continuamente.*
